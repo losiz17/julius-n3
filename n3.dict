@@ -1,0 +1,128 @@
+0	[水曜日]	s u i y o: b i
+0	[水曜日]	s u i y o u b i
+0	[木曜日]	m o k u y o: b i
+0	[木曜日]	m o k u y o u b i
+0	[金曜日]	k i N y o: b i
+0	[金曜日]	k i N y o u b i
+0	[土曜日]	d o y o: b i
+0	[土曜日]	d o y o u b i
+1	[さんかしゃ]	s a N k a sh a
+1	[店]	m i s e
+1	[メール]	m e: r u
+1	[ないよう]	n a i y o:
+1	[ないよう]	n a i y o u
+1	[セミナー]	s e m i n a:
+1	[テスト]	t e s u t o
+1	[けいじばん]	k e: j i b a n
+1	[けいじばん]	k e i j i b a n
+1	[さんかひ]	s a n k a h i
+1	[ちょうさけっか]	ch o: s a k e q k a
+1	[ちょうさけっか]	ch o u s a k e q k a
+1	[サンプル]	s a N p u r u
+1	[かいぎ]	k a i g i
+1	[じゅんび]	j u N b i
+1	[大野さん]	o: n o s a N
+1	[大野さん]	o o n o s a N
+1	[仕事]	sh i g o t o
+1	[たいそう教室]	t a i s o: ky o: sh i ts u
+1	[たいそう教室]	t a i s o u ky o u sh i ts u
+1	[DVD]	dh i: b u i dh i:
+1	[びょういん]	by o: i N
+1	[びょういん]	by o u i N
+1	[スポーツクラブ]	s u p o: ts u k u r a b u
+1	[きにいったの]	k i n i i q t a n o
+1	[ひつよう]	h i ts u y o:
+1	[ひつよう]	h i ts u y o u
+1	[ねだん]	n e d a N
+1	[おっと]	o q t o
+1	[年]	t o sh i
+1	[生活]	s e i k a ts u
+1	[家]	i e
+1	[海外旅行]	k a i g a i ry o k o:
+1	[海外旅行]	k a i g a i ry o k o u
+1	[ペット]	p e q t o
+1	[母]	h a h a
+1	[けが]	k e g a
+1	[アルバイト]	a r u b a i t o
+1	[クラブ]	k u r a b u
+1	[話し合い]	h a n a sh i a i
+1	[サラさん]	s a r a s a N
+1	[してん]	sh i t e N
+1	[友人]	yu: j i N
+1	[友人]	y u u j i N
+1	[テレビ]	t e r e b i
+1	[自分]	j i b u N
+1	[インターネット]	i N t a: n e q t o
+1	[レッスン]	r e q s u N
+1	[外国語]	g a i k o k u g o
+1	[学校]	g q k o:
+1	[学校]	g q k o u
+1	[朝食]	ch o: sh o k u
+1	[メニュー]	m e ny u:
+1	[近所の人]	k i N j o n o h i t o
+1	[せき]	s e k i
+1	[きゃく]	ky a k u
+1	[ことばづかい]	k o t o b a d u k a i
+1	[店員]	t e N i N
+1	[せんぱい]	s e N p a i
+1	[しりょう]	sh i ry o:
+1	[しりょう]	sh i ry o u
+1	[ちょうさ]	ch o: s a
+1	[ちょうさ]	ch o u s a
+1	[グラフ]	g u r a f u
+1	[発表]	h a q py o:
+1	[発表]	h a q py o u
+1	[ながれ]	n a g a r e
+2	[いっしょに]	i q sh o n i
+2	[とってから]	t o q t e k a r a
+2	[あまり]	a m a r i
+2	[こんでいても]	k o N d e i t e m o
+3	[を]	o
+4	[に]	n i
+5	[の]	n o
+6	[と]	t o
+7	[が]	g a
+8	[で]	d e
+9	[から]	k a r a
+10	[ため]	t a m e
+11	[かくにんする]	k a k u n i N s u r u
+11	[電話する]	d e N w a s u r u
+11	[決める]	k i m e r u
+11	[もうしこむ]	m o u sh i k o m u
+11	[うける]	u k e r u
+11	[見る]	m i r u
+11	[ふりこむ]	h u r i k o m u
+11	[入力する]	ny u: ry o k u s u r u
+11	[送る]	o k u r u
+11	[する]	s u r u
+11	[たのむ]	t a n o m u
+11	[買う]	k a u
+11	[行く]	i k u
+11	[なかった]	n a k a q t a
+11	[なくなった]	n a k u n a q t a
+11	[高かった]	t a k a k a q t a
+11	[選びたかった]	e r a b i t a k a q t a
+11	[りゅうがくする]	ry u: g a k u s u r u
+11	[りゅうがくする]	ry u u g a k u s u r u
+11	[つれて行く]	ts u r e t e i k u
+11	[した]	sh i t a
+11	[ある]	a r u
+11	[教えてもらう]	o sh i e t e m o r a u
+11	[見て]	m i t e
+11	[勉強する]	b e n ky o: s u r u
+11	[勉強する]	b e n ky o u s u r u
+11	[うける]	u k e r u
+11	[通う]	k a y o u
+11	[売れていない]	u r e t e i n a i
+11	[来てくれない]	k i t e k u r e n a i
+11	[開けない]	a k e n a i
+11	[いる]	i r u
+11	[よくない]	y o k u n a i
+11	[見せる]	m i s e r u
+11	[しなおす]	sh i n a o s u
+11	[くわえる]	k u w a e r u
+11	[かえる]	k a e r u
+12	[今すぐ]	i m a s u g u
+13	[silB]	silB
+14	[silE]	silE
+15	[sp]	sp

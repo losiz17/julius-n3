@@ -1,0 +1,160 @@
+% DAY   # 曜日
+水曜日    s u i y o: b i
+水曜日    s u i y o u b i
+木曜日    m o k u y o: b i
+木曜日    m o k u y o u b i
+金曜日    k i N y o: b i
+金曜日    k i N y o u b i
+土曜日    d o y o: b i
+土曜日    d o y o u b i
+
+
+% TARGET_N    # 主語
+さんかしゃ      s a N k a sh a
+店    m i s e
+メール    m e: r u
+ないよう    n a i y o:
+ないよう    n a i y o u
+セミナー    s e m i n a:
+テスト    t e s u t o
+けいじばん    k e: j i b a n
+けいじばん    k e i j i b a n
+さんかひ    s a n k a h i
+ちょうさけっか    ch o: s a k e q k a
+ちょうさけっか    ch o u s a k e q k a
+サンプル    s a N p u r u
+かいぎ    k a i g i
+じゅんび    j u N b i
+大野さん    o: n o s a N
+大野さん    o o n o s a N
+仕事    sh i g o t o
+たいそう教室    t a i s o: ky o: sh i ts u
+たいそう教室    t a i s o u ky o u sh i ts u
+DVD   dh i: b u i dh i:
+びょういん    by o: i N
+びょういん    by o u i N
+スポーツクラブ    s u p o: ts u k u r a b u
+きにいったの    k i n i i q t a n o
+ひつよう    h i ts u y o:
+ひつよう    h i ts u y o u
+ねだん    n e d a N
+おっと    o q t o
+年    t o sh i
+生活    s e i k a ts u
+家    i e
+海外旅行    k a i g a i ry o k o:
+海外旅行    k a i g a i ry o k o u
+ペット    p e q t o
+母    h a h a
+けが    k e g a
+アルバイト    a r u b a i t o
+クラブ    k u r a b u
+話し合い    h a n a sh i a i
+サラさん    s a r a s a N
+してん    sh i t e N
+友人    yu: j i N
+友人    y u u j i N
+テレビ    t e r e b i
+自分    j i b u N
+インターネット     i N t a: n e q t o
+レッスン    r e q s u N
+外国語    g a i k o k u g o
+学校    g q k o:
+学校    g q k o u
+朝食    ch o: sh o k u
+メニュー    m e ny u:
+近所の人    k i N j o n o h i t o
+せき    s e k i
+きゃく    ky a k u
+ことばづかい    k o t o b a d u k a i
+店員    t e N i N
+せんぱい    s e N p a i
+しりょう    sh i ry o:
+しりょう    sh i ry o u
+ちょうさ    ch o: s a
+ちょうさ    ch o u s a
+グラフ    g u r a f u
+発表    h a q py o:
+発表    h a q py o u
+ながれ    n a g a r e
+
+
+% JOSHI_N   # 助詞
+いっしょに    i q sh o n i
+とってから    t o q t e k a r a
+あまり    a m a r i
+こんでいても    k o N d e i t e m o
+
+
+% WO    # を
+を    o
+% NI    # に
+に    n i
+% NO    # の
+の    n o
+% TO    # と
+と    t o
+% GA    # が
+が    g a
+% DE    # で
+で    d e 
+
+
+% KARA    #から
+から    k a r a
+% TAME    #ため
+ため    t a m e
+
+% SURU_V    # 動詞
+かくにんする    k a k u n i N s u r u
+電話する    d e N w a s u r u
+決める    k i m e r u
+もうしこむ    m o u sh i k o m u
+うける    u k e r u
+見る    m i r u
+ふりこむ    h u r i k o m u
+入力する    ny u: ry o k u s u r u
+送る    o k u r u
+する    s u r u
+たのむ    t a n o m u
+買う    k a u
+行く    i k u
+なかった    n a k a q t a
+なくなった    n a k u n a q t a
+高かった    t a k a k a q t a
+選びたかった    e r a b i t a k a q t a
+りゅうがくする    ry u: g a k u s u r u
+りゅうがくする    ry u u g a k u s u r u
+つれて行く    ts u r e t e i k u
+した    sh i t a
+ある    a r u
+教えてもらう    o sh i e t e m o r a u
+見て    m i t e
+勉強する    b e n ky o: s u r u
+勉強する    b e n ky o u s u r u
+うける    u k e r u
+通う    k a y o u
+売れていない    u r e t e i n a i
+来てくれない    k i t e k u r e n a i
+開けない    a k e n a i
+いる    i r u
+よくない    y o k u n a i
+見せる    m i s e r u
+しなおす    sh i n a o s u
+くわえる    k u w a e r u
+かえる    k a e r u
+
+
+
+% FUKUSHI_A   # 副詞
+今すぐ    i m a s u g u
+
+
+
+## 無音用エントリ
+% NS_B			# 文頭無音
+silB     	silB
+% NS_E			# 文末無音
+silE     	silE
+% NOISE			# 文中ショートポーズ
+sp       	sp
