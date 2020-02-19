@@ -15,7 +15,7 @@
 1	[テスト]	t e s u t o
 1	[けいじばん]	k e: j i b a n
 1	[けいじばん]	k e i j i b a n
-1	[さんかひ]	s a n k a h i
+1	[さんかひ]	s a N k a h i
 1	[ちょうさけっか]	ch o: s a k e q k a
 1	[ちょうさけっか]	ch o u s a k e q k a
 1	[サンプル]	s a N p u r u
@@ -26,7 +26,6 @@
 1	[仕事]	sh i g o t o
 1	[たいそう教室]	t a i s o: ky o: sh i ts u
 1	[たいそう教室]	t a i s o u ky o u sh i ts u
-1	[DVD]	dh i: b u i dh i:
 1	[びょういん]	by o: i N
 1	[びょういん]	by o u i N
 1	[スポーツクラブ]	s u p o: ts u k u r a b u
@@ -48,15 +47,15 @@
 1	[話し合い]	h a n a sh i a i
 1	[サラさん]	s a r a s a N
 1	[してん]	sh i t e N
-1	[友人]	yu: j i N
+1	[友人]	y u: j i N
 1	[友人]	y u u j i N
 1	[テレビ]	t e r e b i
 1	[自分]	j i b u N
 1	[インターネット]	i N t a: n e q t o
 1	[レッスン]	r e q s u N
 1	[外国語]	g a i k o k u g o
-1	[学校]	g q k o:
-1	[学校]	g q k o u
+1	[学校]	g a q k o:
+1	[学校]	g a q k o u
 1	[朝食]	ch o: sh o k u
 1	[メニュー]	m e ny u:
 1	[近所の人]	k i N j o n o h i t o
@@ -109,8 +108,8 @@
 11	[ある]	a r u
 11	[教えてもらう]	o sh i e t e m o r a u
 11	[見て]	m i t e
-11	[勉強する]	b e n ky o: s u r u
-11	[勉強する]	b e n ky o u s u r u
+11	[勉強する]	b e N ky o: s u r u
+11	[勉強する]	b e N ky o u s u r u
 11	[うける]	u k e r u
 11	[通う]	k a y o u
 11	[売れていない]	u r e t e i n a i
@@ -123,6 +122,6 @@
 11	[くわえる]	k u w a e r u
 11	[かえる]	k a e r u
 12	[今すぐ]	i m a s u g u
-13	[silB]	silB
-14	[silE]	silE
-15	[sp]	sp
+13	[<s>]	silB
+14	[</s>]	silE
+15	[<sp>]	sp

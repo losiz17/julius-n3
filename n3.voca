@@ -19,7 +19,7 @@
 テスト    t e s u t o
 けいじばん    k e: j i b a n
 けいじばん    k e i j i b a n
-さんかひ    s a n k a h i
+さんかひ    s a N k a h i
 ちょうさけっか    ch o: s a k e q k a
 ちょうさけっか    ch o u s a k e q k a
 サンプル    s a N p u r u
@@ -30,7 +30,6 @@
 仕事    sh i g o t o
 たいそう教室    t a i s o: ky o: sh i ts u
 たいそう教室    t a i s o u ky o u sh i ts u
-DVD   dh i: b u i dh i:
 びょういん    by o: i N
 びょういん    by o u i N
 スポーツクラブ    s u p o: ts u k u r a b u
@@ -52,15 +51,15 @@ DVD   dh i: b u i dh i:
 話し合い    h a n a sh i a i
 サラさん    s a r a s a N
 してん    sh i t e N
-友人    yu: j i N
+友人    y u: j i N
 友人    y u u j i N
 テレビ    t e r e b i
 自分    j i b u N
 インターネット     i N t a: n e q t o
 レッスン    r e q s u N
 外国語    g a i k o k u g o
-学校    g q k o:
-学校    g q k o u
+学校    g a q k o:
+学校    g a q k o u
 朝食    ch o: sh o k u
 メニュー    m e ny u:
 近所の人    k i N j o n o h i t o
@@ -130,8 +129,8 @@ DVD   dh i: b u i dh i:
 ある    a r u
 教えてもらう    o sh i e t e m o r a u
 見て    m i t e
-勉強する    b e n ky o: s u r u
-勉強する    b e n ky o u s u r u
+勉強する    b e N ky o: s u r u
+勉強する    b e N ky o u s u r u
 うける    u k e r u
 通う    k a y o u
 売れていない    u r e t e i n a i
@@ -152,9 +151,9 @@ DVD   dh i: b u i dh i:
 
 
 ## 無音用エントリ
-% NS_B			# 文頭無音
-silB     	silB
-% NS_E			# 文末無音
-silE     	silE
-% NOISE			# 文中ショートポーズ
-sp       	sp
+% NS_B    # 文頭無音
+<s>   silB
+% NS_E    # 文末無音
+</s>  silE
+% NOISE   # 文中ショートポーズ
+<sp>       	sp
